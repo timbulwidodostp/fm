@@ -1,0 +1,31 @@
+.-
+help for ^fm^
+.-
+
+Fama-Macbeth (1973) regression with Newey-West (1987) standard errors
+----------------------
+
+ fm var1 var2
+ 
+Description
+-----------
+
+fm^ Fama-Macbeth (1973) regression with Newey-West (1987) standard errors.
+     
+^Note:^ Requires fm.ado
+
+Examples
+--------
+
+ . ^xtset idcode year^
+ . ^fm ln_wage union age grade^
+ . ^fm union ln_wage age grade, estimator(logit)^
+ . ^fm ln_wage union age grade, estimator(tobit) options(ll(0) ul(1))^
+
+Author
+------
+
+      Timbul Widodo
+      www.youtube.com/@amalsedekah
+      www.youtube.com/@amalsedekah/videos
+     
