@@ -1,5 +1,4 @@
-d 'DEA': Data envelopment analysis
+d 'fm': Fama-Macbeth (1973) regression with Newey-West (1987) standard errors Use fm With STATA 18
 d
-f dea.ado
-f dea.sthlp
-f coelli_table6.4.dta
+f fm.ado
+f fm.hlp
