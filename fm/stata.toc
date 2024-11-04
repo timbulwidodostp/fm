@@ -2,4 +2,4 @@
 1
 2
 3
-p dea Data envelopment analysis
+p fm Fama-Macbeth (1973) regression with Newey-West (1987) standard errors Use fm With STATA 18
