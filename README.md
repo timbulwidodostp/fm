@@ -1,6 +1,8 @@
 # fm
 Fama-Macbeth (1973) regression with Newey-West (1987) standard errors Use fm With STATA 18
 
+https://www.youtube.com/watch?v=M0Gbbhb5rnA
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
